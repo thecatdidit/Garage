@@ -64,6 +64,22 @@
  * Flash Player Master Version XML Reference
    * https://fpdownload.macromedia.com/pub/flashplayer/masterversion/masterversion.xml
   
+## Adobe Reader
+ * Adobe Release Listing and Changelog
+   * https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html
+
+## Utilities
+ * Registry to PowerShell Convertor (Roger Zander)
+  * https://reg2ps.azurewebsites.net/
+ * PowerShell Policy Editor (Create PoSH stubs out of GPO settings)
+  * http://pspeditor.azurewebsites.net/
+ * The Complete Bible of Windows Error Messages (1000s of them)
+  * www5d.biglobe.ne.jp/~noocyte/Programming/Windows/Errors/WinError.html
+ * CMPivot Query Examples
+  * https://www.systemcenterdudes.com/sccm-cmpivot-query/
+ * Current Windows 10 Builds (coveras all rings, XBox and others)
+  * https://changewindows.org/rings/pc
+  
 ## LogMeIn
 
 * ADMX and ADML Templates
